@@ -85,16 +85,3 @@ python main.py
 
 ---
 
-Contributing
-
-Contributions are always welcome! If you have suggestions, bug fixes, or feature requests, feel free to:
-
-Fork the repository.
-
-Open issues or discussions.
-
-Submit a pull request.
-
-
-
----
