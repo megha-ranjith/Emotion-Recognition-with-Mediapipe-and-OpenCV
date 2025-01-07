@@ -16,7 +16,7 @@ A lightweight and efficient real-time emotion recognition system leveraging **Me
   - Surprised  
   - Angry  
 
-### 2. **Interactive Visualization**  
+### 2. **Interactive Visualization**   
 - Live webcam feed with overlaid facial landmarks.  
 - Clear visualization of detected emotions and facial movements.  
 
