@@ -5,7 +5,7 @@
 A lightweight and efficient real-time emotion recognition system leveraging **Mediapipe FaceMesh** and **OpenCV**. This project uses facial landmarks to detect and classify emotions, offering seamless visual feedback and practical use cases for various industries.  
 
 ---
-
+ 
 ## **Key Features**  
 
 ### 1. **Real-Time Emotion Detection**  
