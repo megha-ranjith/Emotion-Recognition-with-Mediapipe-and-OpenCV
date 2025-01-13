@@ -13,6 +13,7 @@ def calculate_distance(point1, point2):
 
 # Function to analyze facial expressions
 def analyze_expression(landmarks, width, height):
+    
     # Extract key points for expression detection
     left_eye_inner = landmarks[133]  # Inner corner of left eye
     right_eye_inner = landmarks[362]  # Inner corner of right eye
