@@ -7,7 +7,7 @@ mp_drawing = mp.solutions.drawing_utils
 mp_drawing_styles = mp.solutions.drawing_styles
 mp_face_mesh = mp.solutions.face_mesh
 
-# Function to calculate Euclidean distance
+# Function to calculate Euclidean distance 
 def calculate_distance(point1, point2):
     return np.linalg.norm(np.array(point1) - np.array(point2))
 
